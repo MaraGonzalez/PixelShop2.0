@@ -1,0 +1,156 @@
+[
+  {
+    "id": 5001,
+    "id_usuario": 1,
+    "fecha": "01-10-2025, 15:01:25",
+    "direccion": "Bv. Oroño 123, Rosario, Santa Fe",
+    "metodo_pago": "tarjeta",
+    "productos": [
+      {
+        "id": 10,
+        "nombre": "AMD Ryzen 5 5600GT 8GB 480GB",
+        "precio_unitario": 350000,
+        "cantidad": 1,
+        "subtotal": 350000
+      }
+    ],
+    "costo_envio": 79000,
+    "total": 429000
+  },
+  {
+    "id": 5002,
+    "id_usuario": 2,
+    "fecha": "02-10-2025, 11:22:38",
+    "direccion": "Av. Pellegrini 2450, Rosario, Santa Fe",
+    "metodo_pago": "transferencia",
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "AMD Ryzen 7 5700G 16GB 480GB",
+        "precio_unitario": 412000,
+        "cantidad": 1,
+        "subtotal": 412000
+      }
+    ],
+    "costo_envio": 0,
+    "total": 412000
+  },
+  {
+    "id": 5003,
+    "id_usuario": 3,
+    "fecha": "03-10-2025, 17:54:49",
+    "direccion": "Córdoba 1800, Rosario, Santa Fe",
+    "metodo_pago": "credito",
+    "productos": [
+      {
+        "id": 13,
+        "nombre": "Asus Prime Nvidia Geforce RTX 5070 12GB OC GDDR7",
+        "precio_unitario": 1060000,
+        "cantidad": 1,
+        "subtotal": 1060000
+      },
+      {
+        "id": 22,
+        "nombre": "Mouse Redragon STORM PRO M808-KS RGB Wireless 2.4Ghz",
+        "precio_unitario": 40350,
+        "cantidad": 2,
+        "subtotal": 80700
+      }
+    ],
+    "costo_envio": 75000,
+    "total": 1210700
+  },
+  {
+    "id": 5004,
+    "id_usuario": 4,
+    "fecha": "04-10-2025, 13:53:29",
+    "direccion": "Mendoza 900, Rosario, Santa Fe",
+    "metodo_pago": "tarjeta",
+    "productos": [
+      {
+        "id": 21,
+        "nombre": "Auriculares Logitech G432 Gaming 7.1 USB",
+        "precio_unitario": 107050,
+        "cantidad": 1,
+        "subtotal": 107050
+      },
+      {
+        "id": 27,
+        "nombre": "Webcam Redragon GW800 Hitman FHD",
+        "precio_unitario": 57500,
+        "cantidad": 1,
+        "subtotal": 57500
+      }
+    ],
+    "costo_envio": 85000,
+    "total": 249550
+  },
+  {
+    "id": 5005,
+    "id_usuario": 1,
+    "fecha": "05-10-2025, 11:11:14",
+    "direccion": "Bv. Oroño 123, Rosario, Santa Fe",
+    "metodo_pago": "efectivo",
+    "productos": [
+      {
+        "id": 23,
+        "nombre": "Teclado Mecanico Redragon Kumara K552 RGB Outemu Red",
+        "precio_unitario": 46300,
+        "cantidad": 1,
+        "subtotal": 46300
+      },
+      {
+        "id": 29,
+        "nombre": "Webcam Logitech Brio 500 White FHD",
+        "precio_unitario": 151500,
+        "cantidad": 1,
+        "subtotal": 151500
+      }
+    ],
+    "costo_envio": 0,
+    "total": 197800
+  },
+  {
+    "id": 5006,
+    "id_usuario": 7,
+    "fecha": "19-11-2025, 20:44:05",
+    "direccion": "Sin dirección registrada",
+    "metodo_pago": "Transferencia",
+    "productos": [
+      {
+        "id": 2,
+        "nombre": "AMD Ryzen 3 5300G 8GB 480GB",
+        "precio_unitario": 315900,
+        "cantidad": 1,
+        "subtotal": 315900
+      }
+    ],
+    "costo_envio": 0,
+    "total": 315900
+  },
+  {
+    "id": 5007,
+    "id_usuario": 1,
+    "fecha": "20-11-2025, 20:58:48",
+    "direccion": "San Lorenzo 950",
+    "metodo_pago": "Tarjeta de crédito",
+    "productos": [
+      {
+        "id": 22,
+        "nombre": "Mouse Redragon STORM PRO M808-KS RGB Wireless 2.4Ghz",
+        "precio_unitario": 40350,
+        "cantidad": 1,
+        "subtotal": 40350
+      },
+      {
+        "id": 21,
+        "nombre": "Auriculares Logitech G432 Gaming 7.1 USB",
+        "precio_unitario": 107050,
+        "cantidad": 1,
+        "subtotal": 107050
+      }
+    ],
+    "costo_envio": 0,
+    "total": 147400
+  }
+]

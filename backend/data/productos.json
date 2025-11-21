@@ -1,0 +1,401 @@
+{
+  "computadoras": [
+    {
+      "id": 1,
+      "nombre": "AMD Ryzen 7 5700G 16GB 480GB",
+      "precio": 412000,
+      "stock": 10,
+      "marca": "Ryzen 7",
+      "descripcion": "Potente estación de juego y trabajo, ideal para streamers, diseñadores o gamers exigentes que buscan alto rendimiento gráfico.",
+      "imagen": "/images/Ryzen7-5700G-16GB-480GB.png",
+      "link": "html/computadoras/Ryzen75700G.html"
+    },
+    {
+      "id": 2,
+      "nombre": "AMD Ryzen 3 5300G 8GB 480GB",
+      "precio": 315900,
+      "stock": 14,
+      "marca": "Ryzen 3",
+      "descripcion": "Equipo económico ideal para tareas de oficina, navegación, estudio y uso cotidiano. Cuenta con gráficos integrados para uso liviano.",
+      "imagen": "/images/Ryzen3-5300G-8GB-480GB.png",
+      "link": "html/computadoras/Ryzen35300G.html"
+    },
+    {
+      "id": 3,
+      "nombre": "AMD Ryzen 7 7700 64GB 2TB",
+      "precio": 15000000,
+      "stock": 5,
+      "marca": "Ryzen 7",
+      "descripcion": "Potente estación de trabajo y gaming de alto nivel. Perfecta para edición, multitarea intensiva y juegos exigentes en alta calidad.",
+      "imagen": "/images/Ryzen7-7700-64GB-2TB.png",
+      "link": "html/computadoras/Ryzen77700.html"
+    },
+    {
+      "id": 4,
+      "nombre": "AMD Ryzen 5 4655G 16GB 480GB",
+      "precio": 415900,
+      "stock": 12,
+      "marca": "Ryzen 5",
+      "descripcion": "PC versátil para uso diario, ideal para multitareas, estudio y oficina. Excelente rendimiento con gráficos integrados.",
+      "imagen": "/images/Ryzen5-4655G-16GB-480GB.png",
+      "link": "html/computadoras/Ryzen54655G.html"
+    },
+    {
+      "id": 5,
+      "nombre": "AMD Ryzen 5 8500G 16GB 480GB",
+      "precio": 325000,
+      "stock": 8,
+      "marca": "Ryzen 5",
+      "descripcion": "Potente equipo de última generación, perfecto para trabajo exigente, gaming casual y edición básica gracias a sus gráficos integrados.",
+      "imagen": "/images/Ryzen5-8500G-16GB-480GB.png",
+      "link": "html/computadoras/Ryzen58500G.html"
+    },
+    {
+      "id": 6,
+      "nombre": "AMD Ryzen 3 3200G 16GB 480GB",
+      "precio": 210000,
+      "stock": 20,
+      "marca": "Ryzen 3",
+      "descripcion": "Opción económica y confiable para tareas básicas como navegación, streaming y ofimática, con buen desempeño gráfico para uso liviano.",
+      "imagen": "/images/Ryzen3-3200G-16GB-480GB.png",
+      "link": "html/computadoras/Ryzen33200G.html"
+    },
+    {
+      "id": 7,
+      "nombre": "AMD Ryzen 5 7600 16GB 1TB",
+      "precio": 1001400,
+      "stock": 7,
+      "marca": "Ryzen 5",
+      "descripcion": "Opción ideal para tareas multitarea, juegos y productividad con buen rendimiento general.",
+      "imagen": "/images/Ryzen5-7600.png",
+      "link": "html/computadoras/Ryzen57600.html"
+    },
+    {
+      "id": 8,
+      "nombre": "AMD Ryzen 5 8600G 16GB 960GB",
+      "precio": 600000,
+      "stock": 9,
+      "marca": "Ryzen 5",
+      "descripcion": "Excelente combinación para trabajos intensivos y almacenamiento rápido. Ideal para usuarios que necesitan rendimiento y espacio.",
+      "imagen": "/images/Ryzen5-8600G.png",
+      "link": "html/computadoras/Ryzen58600G.html"
+    },
+    {
+      "id": 9,
+      "nombre": "AMD Ryzen 7 8700G 16GB 1TB",
+      "precio": 730000,
+      "stock": 4,
+      "marca": "Ryzen 7",
+      "descripcion": "Pensado para usuarios que requieren alto rendimiento en edición, diseño y juegos exigentes.",
+      "imagen": "/images/Ryzen7-8700G.png",
+      "link": "html/computadoras/Ryzen78700G.html"
+    },
+    {
+      "id": 10,
+      "nombre": "AMD Ryzen 5 5600GT 8GB 480GB",
+      "precio": 350000,
+      "stock": 18,
+      "marca": "Ryzen 5",
+      "descripcion": "Equilibrado para usuarios con necesidades medias y buen rendimiento gráfico.",
+      "imagen": "/images/Ryzen5-5600GT.png",
+      "link": "html/computadoras/Ryzen55600GT.html"
+    }
+  ],
+  "hardware": [
+    {
+      "id": 11,
+      "nombre": "Mother Asus Prime A520M-K CSM AM4",
+      "precio": 72500,
+      "stock": 25,
+      "categoria": "Motherboard",
+      "descripcion": "Ideal para equipos de uso general o doméstico. Soporta procesadores AMD Ryzen.",
+      "imagen": "/images/Mother-Asus-A520M.png",
+      "link": "html/hardware/AsusA520.html"
+    },
+    {
+      "id": 12,
+      "nombre": "Mother Asus Prime X870-P WIFI DDR5 AM5",
+      "precio": 373000,
+      "stock": 14,
+      "categoria": "Motherboard",
+      "descripcion": "Placa base de última generación con soporte para memorias DDR5, socket AM5 y conectividad WiFi integrada para un setup moderno y veloz.",
+      "imagen": "/images/Mother-ASUS-PRIME-X870-P-WIFI.png",
+      "link": "html/hardware/AsusX870.html"
+    },
+    {
+      "id": 13,
+      "nombre": "Asus Prime Nvidia Geforce RTX 5070 12GB OC GDDR7",
+      "precio": 1060000,
+      "stock": 6,
+      "categoria": "Placa de video",
+      "descripcion": "Tarjeta gráfica de alto rendimiento con arquitectura NVIDIA de última generación. Ideal para gaming en 4K y tareas de edición de video.",
+      "imagen": "/images/Geforce-5070.png",
+      "link": "html/hardware/rtx5070.html"
+    },
+    {
+      "id": 14,
+      "nombre": "Micro Intel I9-14900k 6ghz 36mb s.1700",
+      "precio": 795700,
+      "stock": 3,
+      "categoria": "Microprocesador",
+      "descripcion": "Uno de los procesadores más potentes del mercado, perfecto para tareas de alto rendimiento como gaming, diseño y edición profesional.",
+      "imagen": "/images/Micro-IntelI9-14900k.png",
+      "link": "html/hardware/i914900.html"
+    },
+    {
+      "id": 15,
+      "nombre": "Mother Gigabyte B550M K AM4",
+      "precio": 114000,
+      "stock": 20,
+      "categoria": "Motherboard",
+      "descripcion": "Ideal para armar un equipo moderno y balanceado. Soporta procesadores AMD Ryzen y ofrece buena conectividad.",
+      "imagen": "/images/Mother-Gigabyte-B550M.png",
+      "link": "html/hardware/GigabyteB550.html"
+    },
+    {
+      "id": 16,
+      "nombre": "Micro Intel I7-12700 5.0Ghz 25Mb S.1700B",
+      "precio": 395000,
+      "stock": 10,
+      "categoria": "Microprocesador",
+      "descripcion": "Ideal para usuarios exigentes, creación de contenido y gaming avanzado. Ofrece un excelente equilibrio entre rendimiento y eficiencia energética.",
+      "imagen": "/images/I7-12700.png",
+      "link": "html/hardware/i712700.html"
+    },
+    {
+      "id": 17,
+      "nombre": "Radeon Sapphire Pulse RX 9070 16GB GDDR6",
+      "precio": 1190000,
+      "stock": 5,
+      "categoria": "Placa de video",
+      "descripcion": "Equipo ideal para gaming en alta resolución y tareas gráficas exigentes.",
+      "imagen": "/images/Radeon-rx9070.png",
+      "link": "html/hardware/rx9070.html"
+    },
+    {
+      "id": 18,
+      "nombre": "MSI Nvidia Geforce RTX 3050 Ventus 2X XS 8GB GDDR6",
+      "precio": 383800,
+      "stock": 15,
+      "categoria": "Placa de video",
+      "descripcion": "Ideal para gaming en Full HD, esta GPU ofrece un excelente rendimiento gráfico con arquitectura Ampere y soporte para ray tracing.",
+      "imagen": "/images/Placa-de-video-rtx-3050.png",
+      "link": "html/hardware/rtx3050.html"
+    },
+    {
+      "id": 19,
+      "nombre": "Mother ASRock B560M-HDV R3.0 1200",
+      "precio": 88900,
+      "stock": 22,
+      "categoria": "Motherboard",
+      "descripcion": "Ideal para usuarios que buscan un equilibrio entre rendimiento y precio.",
+      "imagen": "/images/Mother-Asrock-B560M.png",
+      "link": "html/hardware/ASRockB560.html"
+    },
+    {
+      "id": 20,
+      "nombre": "Micro Intel I3-10105F 4.4Ghz 6Mb S.1200",
+      "precio": 93300,
+      "stock": 30,
+      "categoria": "Microprocesador",
+      "descripcion": " Ideal para tareas de oficina, multimedia y gaming básico. Una opción eficiente y económica para PCs de uso general.",
+      "imagen": "/images/I3-10105f.png",
+      "link": "html/hardware/i310105f.html"
+    }
+  ],
+  "perifericos": [
+    {
+      "id": 21,
+      "nombre": "Auriculares Logitech G432 Gaming 7.1 USB",
+      "categoria": "Auriculares",
+      "precio": 107050,
+      "stock": 14,
+      "descripcion": "Auriculares con sonido envolvente 7.1, micrófono ajustable y conexión USB para una experiencia inmersiva en juegos o videollamadas.",
+      "imagen": "/images/Auriculares-Logitech-G432.png",
+      "link": "html/perifericos/auriculares-logi-g432.html"
+    },
+    {
+      "id": 22,
+      "nombre": "Mouse Redragon STORM PRO M808-KS RGB Wireless 2.4Ghz",
+      "precio": 40350,
+      "stock": 19,
+      "categoria": "Mouse",
+      "descripcion": "Mouse inalámbrico de alto rendimiento con sensor de 16.000 DPI, RGB personalizable y diseño ergonómico ultraligero.",
+      "imagen": "/images/Mouse-Redragon-STORM-PRO-M808-KS.png",
+      "link": "html/perifericos/mouse-redragon-stormpro.html"
+    },
+    {
+      "id": 23,
+      "nombre": "Teclado Mecanico Redragon Kumara K552 RGB Outemu Red",
+      "precio": 46300,
+      "stock": 18,
+      "categoria": "Teclado",
+      "descripcion": "Teclado compacto con switches Outemu Red, ideal para gamers y programadores que buscan velocidad, durabilidad y estética RGB.",
+      "imagen": "/images/Teclado-Mecanico-Redragon-Kumara-K552.png",
+      "link": "html/perifericos/teclado-kumara.html"
+    },
+    {
+      "id": 24,
+      "nombre": "Micrófono Logitech Blue Snowball ICE Black USB",
+      "precio": 50550,
+      "stock": 10,
+      "categoria": "Micrófono",
+      "descripcion": "Micrófono condensador USB de alta calidad con patrón cardioide, perfecto para streaming, podcasts y videollamadas con sonido nítido y profesional.",
+      "imagen": "/images/microfono-logitech.png",
+      "link": "html/perifericos/microfono-logi.html"
+    },
+    {
+      "id": 25,
+      "nombre": "Mouse Logitech G305 Wireless 2.4Ghz",
+      "precio": 39500,
+      "stock": 25,
+      "categoria": "Mouse",
+      "descripcion": "Mouse inalámbrico con tecnología Lightspeed y sensor HERO de alto rendimiento. Ideal para gaming competitivo con baja latencia y gran autonomía.",
+      "imagen": "/images/mouse-logi.png",
+      "link": "html/perifericos/mouse-logi-g305.html"
+    },
+    {
+      "id": 26,
+      "nombre": "Auriculares Redragon Zeus H510 PRO",
+      "precio": 113500,
+      "stock": 12,
+      "categoria": "Auriculares",
+      "descripcion": "Auriculares gamer con sonido envolvente 7.1, micrófono desmontable y almohadillas cómodas para largas sesiones de juego.",
+      "imagen": "/images/auriculares-redragon.png",
+      "link": "html/perifericos/auriculares-redragon.html"
+    },
+    {
+      "id": 27,
+      "nombre": "Webcam Redragon GW800 Hitman FHD",
+      "precio": 57500,
+      "stock": 10,
+      "categoria": "Webcam",
+      "descripcion": "Cámara web Full HD 1080p con micrófono incorporado y enfoque automático, ideal para streaming o videollamadas con excelente claridad.",
+      "imagen": "/images/webcam-redragon.png",
+      "link": "html/perifericos/webcam-redragon.html"
+    },
+    {
+      "id": 28,
+      "nombre": "Micrófono Redragon Blazar GM300",
+      "precio": 90000,
+      "stock": 15,
+      "categoria": "Micrófono",
+      "descripcion": "Micrófono USB de escritorio con soporte antichoque y filtro pop, ideal para grabación de voz, streaming o gaming con calidad profesional.",
+      "imagen": "/images/microfono-redragon.png",
+      "link": "html/perifericos/microfono-redragon.html"
+    },
+    {
+      "id": 29,
+      "nombre": "Webcam Logitech Brio 500 White FHD",
+      "precio": 151500,
+      "stock": 8,
+      "categoria": "Webcam",
+      "descripcion": "Webcam premium con resolución Full HD 1080p, autoencuadre, enfoque automático y excelente rendimiento en baja luz. Ideal para home office o creadores de contenido.",
+      "imagen": "/images/webcam-logi.png",
+      "link": "html/perifericos/webcam-logi.html"
+    },
+    {
+      "id": 30,
+      "nombre": "Teclado Logitech G213 Prodigy RGB Lightsync",
+      "precio": 58500,
+      "stock": 20,
+      "categoria": "Teclado",
+      "descripcion": "Teclado gamer con retroiluminación RGB personalizable, resistencia a salpicaduras y teclas multimedia dedicadas. Rendimiento óptimo para juego y trabajo.",
+      "imagen": "/images/teclado-logitech.png",
+      "link": "html/perifericos/teclado-logi.html"
+    },
+    {
+      "id": 39,
+      "nombre": "Monitor Philips 27",
+      "precio": 230000,
+      "stock": 12,
+      "marca": "Philips",
+      "descripcion": "Monitor 27 pulgadas FHD",
+      "imagen": "",
+      "link": "",
+      "categoria": "perifericos"
+    }
+  ],
+  "consolas": [
+    {
+      "id": 31,
+      "nombre": "Nintendo Switch Lite 32GB BLUE",
+      "precio": 311880,
+      "stock": 10,
+      "marca": "Nintendo",
+      "descripcion": "Versión portátil de la Nintendo Switch, ligera y compacta, perfecta para jugar en cualquier lugar con un catálogo amplio de juegos exclusivos. De regalo funda para su transporte.",
+      "imagen": "/images/Nintendo-switch-lite-blue.png",
+      "link": "html/consolas/nintendo-switch-lite.html"
+    },
+    {
+      "id": 32,
+      "nombre": "Xbox Series X Edición Digital 1TB + Joystick",
+      "precio": 1349999,
+      "stock": 5,
+      "marca": "Xbox",
+      "descripcion": "La consola más potente de Xbox, con capacidad para juegos en 4K, tiempos de carga ultra rápidos y gran almacenamiento SSD.",
+      "imagen": "/images/XBOX-SERIES-X.png",
+      "link": "html/consolas/xbox-seriesx.html"
+    },
+    {
+      "id": 33,
+      "nombre": "Sony Playstation 5 Slim 1TB Digital + Joystick",
+      "precio": 1540000,
+      "stock": 7,
+      "marca": "PlayStation",
+      "descripcion": "PS5 en su versión digital y slim, con gráficos sorprendentes, tiempos de carga reducidos y acceso total a la biblioteca online de PlayStation.",
+      "imagen": "/images/PS5-Slim.png",
+      "link": "html/consolas/ps5-slim.html"
+    },
+    {
+      "id": 34,
+      "nombre": "Consola Nintendo Switch Oled 64 Gb",
+      "precio": 899999,
+      "stock": 9,
+      "marca": "Nintendo",
+      "descripcion": "Disfrutá de una experiencia de juego híbrida con pantalla OLED de 7', modo TV, portátil y sobremesa. Ideal para juegos en casa o en movimiento.",
+      "imagen": "/images/nintendo-switch-oled.png",
+      "link": "html/consolas/nintendo-switch-oled.html"
+    },
+    {
+      "id": 35,
+      "nombre": "Consola Ps5 Portatil Sony Portal",
+      "precio": 612000,
+      "stock": 6,
+      "marca": "PlayStation",
+      "descripcion": "Extiende tu experiencia con esta consola portátil que permite jugar a través de streaming vía Wi-Fi. Pantalla Full HD, controles adaptativos y diseño ligero para jugar desde cualquier lugar de tu casa.",
+      "imagen": "/images/ps5-portatil.png",
+      "link": "html/consolas/ps5-portatil.html"
+    },
+    {
+      "id": 36,
+      "nombre": "Consola de Juegos Portatil Suono G5 Verde Mini Box",
+      "precio": 20809,
+      "stock": 14,
+      "marca": "Souno",
+      "descripcion": "Consola portátil retro con diseño compacto y más de 400 juegos clásicos integrados. Pantalla a color, batería recargable y salida AV para conectar a TV. Ideal para nostalgia y entretenimiento portátil.",
+      "imagen": "/images/consola-portatil-mini.png",
+      "link": "html/consolas/consola-mini-portatil.html"
+    },
+    {
+      "id": 37,
+      "nombre": "Alien Consola Retro Family Game Con 500 Juegos",
+      "precio": 39999,
+      "stock": 11,
+      "marca": "Alien",
+      "descripcion": "Mini consola familiar tipo retro con joystick doble y 500 juegos clásicos precargados. Perfecta para revivir los mejores títulos de la infancia, con salida AV para conectarse al televisor.",
+      "imagen": "/images/consola-retro-family.png",
+      "link": "html/consolas/consola-retro-family.html"
+    },
+    {
+      "id": 38,
+      "nombre": "Xbox Series S 512 GB de Microsoft",
+      "precio": 989999,
+      "stock": 13,
+      "marca": "Xbox",
+      "descripcion": "La consola digital más compacta de Xbox. Rendimiento de nueva generación, gráficos 1440p, 120 FPS, y 512 GB de almacenamiento SSD. Ideal para jugar a Game Pass y títulos actuales sin lector de discos.",
+      "imagen": "/images/xbox-seriesS.png",
+      "link": "html/consolas/xbox-seriess.html"
+    }
+  ]
+}

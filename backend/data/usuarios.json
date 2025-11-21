@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Maria",
+    "apellido": "Gomez",
+    "fecha_nacimiento": "1990-04-10",
+    "email": "maria.gomez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "fecha_nacimiento": "1988-07-22",
+    "email": "juan.perez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 3,
+    "nombre": "Carla",
+    "apellido": "Lopez",
+    "fecha_nacimiento": "1995-11-03",
+    "email": "carla.lopez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 4,
+    "nombre": "Luis",
+    "apellido": "Martinez",
+    "fecha_nacimiento": "1982-01-17",
+    "email": "luis.martinez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 5,
+    "nombre": "Ana",
+    "apellido": "Torres",
+    "fecha_nacimiento": "1999-09-30",
+    "email": "ana.torres@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 6,
+    "nombre": "Roberto",
+    "apellido": "Sanchez",
+    "fecha_nacimiento": "1991-06-14",
+    "email": "roberto.sanchez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 7,
+    "nombre": "Lucia",
+    "apellido": "Fernandez",
+    "fecha_nacimiento": "2000-12-21",
+    "email": "lucia.fernandez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 8,
+    "nombre": "Pablo",
+    "apellido": "Diaz",
+    "fecha_nacimiento": "1993-02-28",
+    "email": "pablo.diaz@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  },
+  {
+    "id": 9,
+    "nombre": "Ana",
+    "apellido": "Gomez",
+    "fecha_nacimiento": "2000-12-12",
+    "email": "ana.gomez@mail.com",
+    "contraseña": "$2b$10$fRshYpwC2bOxO9RHG/nFO.esi4S.1W37Lo6luEyvAF47bltx77HZG"
+  }
+]
