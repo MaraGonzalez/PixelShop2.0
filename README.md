@@ -40,6 +40,4 @@ npm run dev
 
 📁 **Prefijo de todas las rutas:** `http://localhost:3000/api/`
 
-📁 **Contraseña de usuarios:** `test1234`
-## 📁 Estructura del proyecto
-
+🔐 **Contraseña de usuarios:** `test1234`
