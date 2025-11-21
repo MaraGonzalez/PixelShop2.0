@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jersey+10&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Pixel shop</title>
+</head>
+
+<body>
+  <header>
+
+    <div class="top">
+      <a href="index.html"><img src="assets/LogoIndex.png" alt="Pixel Shop" class="logo"></a>
+     
+      
+      <form action="resultado.html" method="GET" class="buscador">
+        <input type="search" name="q" placeholder="¿Qué estás buscando?" required>
+        <button type="submit" class="btn-icono">
+          <img src="assets/Iconos/icono-buscar.png" alt="Buscar">
+        </button>
+      </form>
+
+      <nav class="usuario" id="usuario-nav">
+        <a href="carrito.html"><img src="assets/Iconos/icono-carrito.png" alt="Carrito" class="icono">Carrito</a>
+        <a href =""><img src="assets/Iconos/icono-micuenta.png" alt="Carrito" class="icono">Mi cuenta</a> 
+        <a href="login.html"><img src="assets/Iconos/icono-cerrarsesion.png" alt="Carrito" class="icono">Cerrar sesión</a> 
+      </nav>
+    </div>
+
+    
+    <div class="menu">
+      <a href="pcarmadas.html">COMPUTADORAS ARMADAS</a>
+      <a href="hardware.html">HARDWARE</a>
+      <a href="perifericos.html">PERIFÉRICOS</a>
+      <a href="consolas.html">CONSOLAS</a>
+    </div>
+  </header>
+        
+
+  <section class="carrusel">
+    <input type="radio" name="slide" id="s1" checked>
+    <input type="radio" name="slide" id="s2">
+    <input type="radio" name="slide" id="s3">
+
+    <div class="slides">
+      <div class= "box">
+        <a href = "html/consolas/nintendo-switch-oled.html">
+          <img src="assets/Carrusel/Carrusel-1.png" alt="Imagen 1">
+        </a>
+      </div>
+      <div class= "box">
+        <a href = "html/perifericos/auriculares-redragon.html">
+          <img src="assets/Carrusel/Carrusel-2.png" alt="Imagen 2">
+        </a>
+      </div>  
+      <div class= "box">
+        <a href = "perifericos.html">
+          <img src="assets/Carrusel/Carrusel-3.png" alt="Imagen 3">
+        </a>
+      </div>
+    </div>
+
+    <div class="dots" id="dots">
+      <label for="s1"></label>
+      <label for="s2"></label>
+      <label for="s3"></label>
+    </div>      
+
+    <div class="controles">
+    <button id="prev">&#10094;</button>
+    <button id="next">&#10095;</button>
+  </div>
+  </section>
+
+
+  <section class="contenedor">
+    <h1 class="titulo-categoria">COMPUTADORAS ARMADAS</h1>
+    <div id="contenedorComputadoras" class="contenedor-productos"></div>
+    <div class="ver-mas"><a href="pcarmadas.html" class="btn-ver-mas">Ver más</a></div>
+  </section>
+
+  <section class="contenedor">
+    <h1 class="titulo-categoria">HARDWARE</h1>
+    <div id="contenedorHardware" class="contenedor-productos"></div>
+    <div class="ver-mas"><a href="hardware.html" class="btn-ver-mas">Ver más</a></div>
+  </section>
+
+  <section class="contenedor">
+    <h1 class="titulo-categoria">PERIFÉRICOS</h1>
+    <div id="contenedorPerifericos" class="contenedor-productos"></div>
+    <div class="ver-mas"><a href="perifericos.html" class="btn-ver-mas">Ver más</a></div>
+  </section>
+  
+  <section class="contenedor">
+    <h1 class="titulo-categoria">CONSOLAS</h1>
+    <div id="contenedorConsolas" class="contenedor-productos"></div>
+    <div class="ver-mas"><a href="consolas.html" class="btn-ver-mas">Ver más</a></div>
+  </section>
+
+  <footer>
+    <div class="footer">
+      <p>Contacto: 
+        <a href="mailto:pixelshop@email.com"><img src="assets/Iconos/icono-correo.png" alt="WhatsApp" class="icono-footer1">pixelshop@email.com</a> |
+        <a href="https://Whatsapp.com" target="_blank"> <img src="assets/Iconos/icono-whatsapp.png" alt="WhatsApp" class="icono-footer">Whatsapp</a>
+      </p>
+      <p>Seguinos en 
+        <a href="https://facebook.com" target="_blank"> <img src="assets/Iconos/icono-facebook.png" alt="Facebook" class="icono-footer">Facebook</a> | 
+        <a href="https://instagram.com" target="_blank"><img src="assets/Iconos/icono-instagram.png" alt="Instagram" class="icono-footer">Instagram</a>
+      </p>
+      <p>© 2025 Pixel Shop. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+  
+  <script src="js/pages/index.js"></script>
+</body>
+</html>
