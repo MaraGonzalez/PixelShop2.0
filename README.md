@@ -11,16 +11,15 @@ El servidor expone un conjunto de endpoints REST que son consumidos por el Front
 ---
 
 ## 🚀 Tecnologías utilizadas
--**HTML5**
--**CSS**
--**JavaScript**
--**JSON**
+- **HTML5**
+- **CSS**
+- **JavaScript**
+- **JSON**
 - **Node.js**
 - **Express.js**
 - **bcryptjs** (encriptación de contraseñas)
 - **jsonwebtoken (JWT)** (autenticación por token)
 - **Nodemon** (para entorno de desarrollo)
-- **JSON como “base de datos”**
 - Opción extra habilitada: *estructura JWT para rutas protegidas*
 
 ---
