@@ -27,13 +27,13 @@ El servidor expone un conjunto de endpoints REST que son consumidos por el Front
 🚀 **Instalación y ejecución del proyecto**  
 ---
 1️⃣ **Instalar dependencias**
-Asegurate de estar dentro de la carpeta del proyecto y ejecutá el siguiente comando en la terminal:
+- Asegurate de estar dentro de la carpeta del proyecto y ejecutá el siguiente comando en la terminal:
 
 ```bash
 npm install
 ```
 
-1️⃣ **Instalar dependencias**
+1️⃣ **Iniciar servidor**
 ```bash
 npm run dev
 ```
